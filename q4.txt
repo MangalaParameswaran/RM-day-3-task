@@ -1,0 +1,67 @@
+task 1=>
+1) var a;
+var b;
+var c;
+var d;
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(d);
+2) var myvar= 1;
+console.log(myvar);
+3) let personDetails={
+    firstname:"Mangala",
+    lastname:"Parameswaran",
+    maritalstatus:"inmarried",
+    country:"india",
+    age:23   
+}
+4) let single=[];
+let personDetails={
+    firstname:"Mangala",
+    lastname:"Parameswaran",
+    maritalstatus:"Unmarried",
+    country:"india",
+    age:23
+    
+}
+for(let i in personDetails){
+    single.push[i]
+}
+
+5) var ab="I am 25 years old.";
+var bc=20;
+var cd;
+var de=null;
+
+6) var a=+"123";
+var b=parseInt(a);
+
+7)
+true // Boolean true
+1 // Non-zero number
+"hello" // Non-empty string
+[] // Non-empty array
+{} // Non-empty object
+function() {} // Non-empty function
+Falsey values:
+
+false // Boolean false
+0 // Number zero
+"" // Empty string
+null // Null value
+undefined // Undefined value
+NaN // Not a Number
+
+
+
+
+
+
+
+
+
+
+
+
+
